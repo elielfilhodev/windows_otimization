@@ -253,7 +253,7 @@ Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para o texto compl
 
 **Eliel Filho** — Full Stack Developer
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
+- GitHub: [@seu-usuario](https://github.com/elielfilhodev)
+- LinkedIn: [seu-perfil](https://linkedin.com/in/eliel-filho-dev)
 
 Contribuições, issues e sugestões são bem-vindas.
